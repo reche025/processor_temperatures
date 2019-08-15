@@ -1,1 +1,1 @@
-# processor_temperatures
+# Please review .ipynb file for my solution to this problem
